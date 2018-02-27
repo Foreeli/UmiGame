@@ -1,0 +1,14 @@
+# Fdb version 3
+["dvipdf"] 0 "front.dvi" "front.pdf" "front" 0
+  "front.dvi" 0 -1 0 "latex"
+  (generated)
+  "front.pdf"
+["latex"] 1519703525 "front.tex" "front.dvi" "front" 1519703526
+  "/Users/SoneShin/Library/texlive/2017basic/texmf-var/web2c/euptex/uplatex.fmt" 1517800299 3218937 42734c4b69e8616df3f4c14ff4d2cdec ""
+  "/usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf" 1515970670 32887 98f6daf93465f813f3c6dc477834d2d9 ""
+  "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
+  "front.aux" 1519703183 8 a94a2480d3289e625eea47cd1b285758 ""
+  "front.tex" 1519703525 131 69e7e761b2dddf0a79e04b58e308041f ""
+  (generated)
+  "front.dvi"
+  "front.log"

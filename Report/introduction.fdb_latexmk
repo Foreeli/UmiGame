@@ -1,0 +1,14 @@
+# Fdb version 3
+["dvipdf"] 0 "introduction.dvi" "introduction.pdf" "introduction" 0
+  "introduction.dvi" 0 -1 0 "latex"
+  (generated)
+  "introduction.pdf"
+["latex"] 1519703411 "introduction.tex" "introduction.dvi" "introduction" 1519703411
+  "/Users/SoneShin/Library/texlive/2017basic/texmf-var/web2c/euptex/uplatex.fmt" 1517800299 3218937 42734c4b69e8616df3f4c14ff4d2cdec ""
+  "/usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf" 1515970670 32887 98f6daf93465f813f3c6dc477834d2d9 ""
+  "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
+  "introduction.aux" 1519703237 8 a94a2480d3289e625eea47cd1b285758 ""
+  "introduction.tex" 1519703411 231 509615045f96d9aff0191424fe6dd837 ""
+  (generated)
+  "introduction.dvi"
+  "introduction.log"
